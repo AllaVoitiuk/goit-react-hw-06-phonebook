@@ -24,7 +24,7 @@ export const Button = styled.button`
 `;
 
 export const Li = styled.li`
-  width: 250px;
+  width: 350px;
   font-size: 18px;
   padding: 10px;
 `;
